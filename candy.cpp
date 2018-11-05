@@ -1,7 +1,7 @@
 /* This program returns the number of possible combinations of chocolates in a box,
  * when given the number of spaces and the varieties of long and square pieces.
  * This version uses an iterative approach to solving the problem.
- * Authors: David Ehrenhaft, Subhrajyoti Pradhan, Brian Skinner
+ * Authors: Subhrajyoti Pradhan
  *
  * Compiled on g++ 6.2.0
  *
